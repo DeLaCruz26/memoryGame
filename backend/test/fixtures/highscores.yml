@@ -1,0 +1,11 @@
+# Read about fixtures at https://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  user_highscore: 1
+  user_initials: MyString
+  user_id: 1
+
+two:
+  user_highscore: 1
+  user_initials: MyString
+  user_id: 1
